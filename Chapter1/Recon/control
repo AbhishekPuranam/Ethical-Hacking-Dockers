@@ -14,7 +14,7 @@ Architecture: any
 Description: Downloads the Webhacking tools required for Reconnaisance
 Depends: ${misc:Depends},
   nmap,
-  httprint [amd64 i386],
+  nikto,
 
 #
 # * Systems
